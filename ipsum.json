@@ -1,0 +1,72 @@
+{
+  "ipsum": [
+    {
+      "name": "Stranger Things Ipsum",
+      "url": "http://stranger-ipsum.robertcooper.me/",
+      "description": "A lorem ipsum generator that uses quotes from Stranger Things.",
+      "example": "This is not yours to fix alone. You act like you’re all alone out there in the world, but you’re not. You’re not alone. You’re going to take out the demigorgon with a slingshot? I need my paddles! Mornings are for coffee and contemplation. Yeah, I want a date with Bo Derek. We all want things."
+    },
+    {
+      "name": "Coffee Ipsum",
+      "url": "http://coffeeipsum.com/",
+      "description": "Don't use boring old Lorem Ipsum, give your project a caffine kick with our Coffee Ipsum!",
+      "example": "Blue mountain viennese blue mountain siphon id variety black. That grinder medium kopi-luwak dripper java grounds crema. Doppio body, extraction plunger pot variety viennese skinny robusta extra. Foam crema, cultivar java con panna seasonal est at barista froth. Macchiato mug saucer espresso sweet aromatic fair trade coffee variety."
+    },
+    {
+      "name": "Cat Ipsum",
+      "url": "http://www.catipsum.com/",
+      "description": "Litter your copy with more kitty.",
+      "example": "Ooh, are those your $250 dollar sandals? lemme use that as my litter box proudly present butt to human, or cough hairball, eat toilet paper, yet stare out the window. Lie in the sink all day i'm going to lap some water out of my master's cup meow but stare at guinea pigs, have secret plans so instead of drinking water from the cat bowl, make sure to steal water from the toilet eat half my food and ask for more."
+    },
+    {
+      "name": "Cupcake Ipsum",
+      "url": "http://www.cupcakeipsum.com/",
+      "description": "Sugar-coated Lorem ipsum generator.",
+      "example": "Tootsie roll sesame snaps cookie powder cookie sweet icing. Icing macaroon icing. Soufflé chocolate cake oat cake tiramisu muffin macaroon apple pie sweet lemon drops. Sweet cake cupcake muffin jelly fruitcake ice cream cotton candy muffin. Bear claw lollipop chocolate brownie. Marshmallow donut pudding."
+    },
+    {
+      "name": "Corporate Ipsum",
+      "url": "http://www.cipsum.com/",
+      "description": "Corporate Ipsum was designed to facilitate the needs of corporate paper-pushers everywhere.",
+      "example": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment."
+    },
+    {
+      "name": "Cheese Ipsum",
+      "url": "http://www.cheeseipsum.co.uk/",
+      "description": "Everyone LOVES a bit of cheese right? So why not add a little fromage to your design mock-ups with our cheese inspired text generator.",
+      "example": "Cheese strings the big cheese fromage frais. Caerphilly pepper jack bocconcini dolcelatte everyone loves port-salut everyone loves queso. Bocconcini cow queso cheese strings chalk and cheese cheesy feet macaroni cheese everyone loves. Feta monterey jack cheese and wine macaroni cheese gouda goat fondue hard cheese. Red leicester ricotta brie roquefort."
+    },
+    {
+      "name": "Sagan Ipsum",
+      "url": "http://saganipsum.com/",
+      "description": "The Cosmos Awaits",
+      "example": "A billion trillion cosmos from which we spring, muse about colonies birth shores of the cosmic ocean, another world two ghostly white figures in coveralls and helmets are soflty dancing. Light years preserve and cherish that pale blue dot, brain is the seed of intelligence tendrils of gossamer clouds not a sunrise but a galaxyrise white dwarf made in the interiors of collapsing stars tingling of the spine emerged into consciousness astonishment explorations citizens of distant epochs!"
+    },
+    {
+      "name": "Bacon Ipsum",
+      "url": "https://baconipsum.com/",
+      "description": "black",
+      "example": "Meatball sausage spare ribs turducken, shoulder chuck filet mignon. Andouille t-bone strip steak drumstick, pork belly spare ribs short ribs alcatra. Cupim buffalo bacon pig t-bone. Chicken meatball shoulder, cupim ball tip pastrami drumstick chuck fatback strip steak flank salami sirloin bacon. Shoulder bacon landjaeger venison, cupim pastrami leberkas meatloaf doner rump short loin ground round jowl."
+    },
+    {
+      "name": "Doctor Who Ipsum",
+      "url": "http://doctoripsum.com/",
+      "description": "The most timey-wimey, wibbly wobbly lorel ipsum text generator this side of Gallifrey. Allons-y!",
+      "example": "It's a fez. I wear a fez now. Fezzes are cool. Come along, Pond! I once spent a hell of a long time trying to get a gobby Australian to Heathrow airport. I need...I need...I need... fish fingers and custard! No. You're too short and bossy, and your nose is all funny. Geronimo! Frightened people. Give me a Dalek any day. Oh, I always rip out the last page of a book. Then it doesn't have to end. I hate endings! Yes, well, it's a brilliant noise. I love that noise. There's something that doesn't make sense. Let's go and poke it with a stick. "
+    },
+  ]
+}
+
+//////////////////////////
+
+{
+  "color": "black",
+  "category": "hue",
+  "type": "primary",
+  "code": {
+    "rgba": [255,255,255,1],
+    "hex": "#000"
+  }
+}
+
+//////////////////////////
